@@ -1,0 +1,1 @@
+<?php $pageTitle='Messages'; require __DIR__.'/../admin/messages.php';
